@@ -1,0 +1,32 @@
+# Carpeta de compilación
+build/
+
+# Archivos de CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Ejecutables
+*.exe
+*.out
+*.app
+
+# Archivos compilados
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
