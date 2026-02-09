@@ -49,4 +49,4 @@ OpenCV_Project.exe    # En Windows
 - Asegúrate de tener OpenCV correctamente instalado en tu sistema
 - Los archivos de cabecera personalizados van en la carpeta `include/`
 - Los archivos fuente van en la carpeta `src/`
-- La carpeta `build/` no debe incluirse en el control de versiones
+- La carpeta `build/` no debe incluirse en el control de versiones# OpenCVColor
